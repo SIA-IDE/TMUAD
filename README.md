@@ -1,4 +1,4 @@
-# MMGT: Motion Mask Guided Two-Stage Network for Co-Speech Gesture Video Generation
+# TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank
 ## Overview
 
 <table>
